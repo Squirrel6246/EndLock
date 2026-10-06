@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="main/icon.png" alt="lockend icon" width="128">
+  <img src="icon.png" alt="lockend icon" width="128">
 </p>
 
 <h1 align="center">lockend</h1>
